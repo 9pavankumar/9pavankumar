@@ -1,14 +1,19 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQF5O8Gx4HYmkA/profile-displaybackgroundimage-shrink_350_1400/0/1710513037335?e=1716422400&v=beta&t=b7KUMoOOcgfRdmo-FRpWkuuzZRKDAr19bwGbGg6tkvw)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm E Pavan Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+
 <img align="right" alt="Coding" width="400" src="file:///C:/Users/1pava/Pictures/mariodlv_Back_view_of_Gamer_playing_online_video_game_on_his_po_3ae00131-c701-48ba-ba82-f9d9fcac459c.webp">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9pavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="9pavankumar" /> </p>
 
-- 🔭 I’m currently working on **text summarization**
+- 🔭 I’m currently working on **AI Projects**
 
 - 🌱 I’m currently learning **AI**
+
+- 👨‍💻 All of my projects are available at [https://github.com/9pavankumar?tab=repositories](https://github.com/9pavankumar?tab=repositories)
 
 - 📫 How to reach me **9pavankumar0@gmail.com**
 
@@ -16,7 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/e pavan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e pavan kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/e-pavan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e-pavan-kumar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0zoxwnnggyzwnierddkgqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0zoxwnnggyzwnierddkgqa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
