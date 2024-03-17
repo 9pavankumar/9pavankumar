@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm E Pavan Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/1pava/Pictures/mariodlv_Back_view_of_Gamer_playing_online_video_game_on_his_po_3ae00131-c701-48ba-ba82-f9d9fcac459c.webp">
+<img align="right" alt="Coding" width="400" src="https://yt3.ggpht.com/sUwhr66-j_Ia6te3elE6l0Q6pjWAYIQr1HH0uJvx2FZmeI2kev5Fi0U1AjromG4nnSRCCQ8-GXi29GM=s593-c-fcrop64=1,38420000c7bdffff-nd-v1">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9pavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="9pavankumar" /> </p>
@@ -22,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/e-pavan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e-pavan-kumar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0zoxwnnggyzwnierddkgqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0zoxwnnggyzwnierddkgqa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/data matters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="data matters" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
