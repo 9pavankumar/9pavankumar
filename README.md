@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm E Pavan Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://yt3.ggpht.com/sUwhr66-j_Ia6te3elE6l0Q6pjWAYIQr1HH0uJvx2FZmeI2kev5Fi0U1AjromG4nnSRCCQ8-GXi29GM=s593-c-fcrop64=1,38420000c7bdffff-nd-v1">
+<img align="right" alt="Coding" width="200" src="https://yt3.ggpht.com/sUwhr66-j_Ia6te3elE6l0Q6pjWAYIQr1HH0uJvx2FZmeI2kev5Fi0U1AjromG4nnSRCCQ8-GXi29GM=s593-c-fcrop64=1,38420000c7bdffff-nd-v1">
 
 
 
