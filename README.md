@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQF5O8Gx4HYmkA/profile-displaybackgroundimage-shrink_3250_12400/0/1710513037335?e=1716422400&v=beta&t=b7KUMoOOcgfRdmo-FRpWkuuzZRKDAr19bwGbGg6tkvw)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQF5O8Gx4HYmkA/profile-displaybackgroundimage-shrink_350_1400/0/1710513037335?e=1716422400&v=beta&t=b7KUMoOOcgfRdmo-FRpWkuuzZRKDAr19bwGbGg6tkvw)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm E Pavan Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India </h3>
