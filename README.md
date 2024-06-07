@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **AI Projects**
 
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m updating my learning on **AI** as it is evolving daily!!!
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/9pavankumar?tab=repositories](https://github.com/9pavankumar?tab=repositories)
